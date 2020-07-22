@@ -1,0 +1,1 @@
+# go-imagemagick7
